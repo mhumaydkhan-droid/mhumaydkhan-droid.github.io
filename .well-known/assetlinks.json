@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.mhumaydkhan.tilawah",
+    "sha256_cert_fingerprints": ["8B:40:D8:0C:A3:69:DF:EC:6B:7B:B3:46:C5:AA:4D:66:24:44:29:A4:43:BB:44:B8:69:BF:93:92:8A:FC:B2:97"]
+  }
+}]
